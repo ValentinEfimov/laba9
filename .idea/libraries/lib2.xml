@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab9/out/artifacts/lab9_war_exploded/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab9/out/artifacts/lab9_war_exploded/WEB-INF/lib/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab9/out/artifacts/lab9_war_exploded/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
